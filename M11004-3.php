@@ -1,0 +1,3 @@
+<?php
+
+// Exercice 3
